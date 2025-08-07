@@ -12,7 +12,7 @@ Implemented data quality techniques in Talend to cleanse, validate, and deduplic
 
 - **Schema Checking:** Used the `tSchemaComplianceCheck` component to validate whether the data source complied with a predefined schema, ensuring structural integrity before processing. 
 
-- ** Replacing Data:** Used the `tReplace` and `tReplaceList` components to substitute invalid or inconsistent values with predefined data or values from an external list.
+- **Replacing Data:** Used the `tReplace` and `tReplaceList` components to substitute invalid or inconsistent values with predefined data or values from an external list.
 
 - **Interval Matching:** Used the `tIntervalMatch` component to match records based on defined value ranges, enabling range-based data mapping and classification.
 
