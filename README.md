@@ -26,23 +26,23 @@ Talend Open Studio, Data Quality, Data Cleansing, Schema Validation, Data Dedupl
 <h2>Documentation:</h2>
 
 <p align="center">
-De-Duplication - Job Designer Workflow <br/>
+1.1 De-Duplication - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/e8cb6571-3663-4244-b7ac-c1d3dee45797" height="80%" width="80%" alt="Schema Handling"/>
 <br />
 <br />
-Schema Checking - Job Designer Workflow  <br/>
+1.2 Schema Checking - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/2170240a-9409-43db-bfae-e8abfdc17cce" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Replace Data - Job Designer Workflow <br/>
+1.3 Replace Data - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/3375f8df-9edf-47db-a45e-7ca4e0239011" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Interval Matching - Job Designer Workflow  <br/>
+1.4 Interval Matching - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/c6e96d54-e615-4aae-b720-b6e9e3daa568" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Fuzzy Matching - Job Designer Workflow & Results  <br/>
+1.5 Fuzzy Matching - Job Designer Workflow & Results  <br/>
 <img src="https://github.com/user-attachments/assets/ccee8585-4332-49fd-b4c4-71f78d7a0904" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
